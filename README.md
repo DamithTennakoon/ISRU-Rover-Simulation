@@ -7,5 +7,5 @@ All the scripts are located in the `Assets/Scripts` folder. Currently, there are
 
 1. `wheel_mechanics.cs`: Responsbile for referencing the 'wheel collider' objects in the 'Leo_Rover_UV (1)' hierarchy. Also sets accelerations and turn angles to each of the wheels.
 2. `keyboard_controller.cs`: Takes keyboard inputs, when the application is running, to move the rover. Currently uses the 'WASD' keys for rover control.
-3. `lidar_sensor.cs`: Simulates a single-ray lidar sensor, using Unit's `Raycast` method. This script it still in development and may not be too crucial for out simulation!
+3. `lidar_sensor.cs`: Simulates a single-ray lidar sensor, using Unity's `Raycast` method. This script it still in development and may not be too crucial for out simulation!
 
