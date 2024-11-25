@@ -1,4 +1,5 @@
 // Objective: Utilize the Ray method to simulate a LiDAR sensor
+// Dependencies: <>
 
 using System.Collections;
 using System.Collections.Generic;

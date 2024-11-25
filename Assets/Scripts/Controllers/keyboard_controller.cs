@@ -1,6 +1,5 @@
 // Objective: Input accelerations & break forces to the robot with keyboard inputs.
 // Dependencies: <wheel_mechanics.cs>
-// Author: Damith Tennakoon
 
 using System.Collections;
 using System.Collections.Generic;

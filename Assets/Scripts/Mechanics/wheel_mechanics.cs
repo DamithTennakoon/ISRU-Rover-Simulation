@@ -1,6 +1,5 @@
 // Objective: Defines the wheel mechanics & properties of the rover + applies accelerations to wheels.
 // Dependencies: <>,
-// Author: Damith Tennakoon
 
 using System.Collections;
 using System.Collections.Generic;
